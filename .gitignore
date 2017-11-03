@@ -1,1 +1,3 @@
 contrasenas.txt
+cache/*
+!cache/.gitkeep
